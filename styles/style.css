@@ -217,6 +217,7 @@
 
 .content__head {
   width: 100%;
+  padding-left: 20px;
 }
 
 .content__head a {
