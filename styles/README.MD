@@ -1,2 +1,2 @@
 # NewLayout
-[https://vadymboguslavsky.github.io]
+[https://vadymboguslavsky.github.io/NewLayout]
